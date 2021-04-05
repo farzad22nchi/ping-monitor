@@ -9,6 +9,7 @@ The application could find the HTTP(s) requests time to a server.
 * The Average request time could be calculated in the time. 
 the time must have a "dd.MM.yyyy HH:mm:ss"
 * The result of any time span could be saved in a local store.
+![image](https://user-images.githubusercontent.com/24793510/113594681-4ed74d80-9638-11eb-90b0-c74cc6fdfc07.png)
 
 ### Reference Documentation
 For further reference, please consider the following sections:
