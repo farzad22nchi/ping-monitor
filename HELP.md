@@ -1,4 +1,14 @@
-# Getting Started
+# Ping Monitoring
+
+## Description
+The application could find the HTTP(s) requests time to a server.
+* The server could be defined by a user.
+* In case of wrong like the application could set it to the default web site which is http://www.google.com
+* The duration and interval of request are settable. the default value is 60 minutes for the duration and 1 second for the interval.
+* The requests are saved in the PostgreSQL database.
+* The Average request time could be calculated in the time. 
+the time must have a "dd.MM.yyyy HH:mm:ss"
+* The result of any time span could be saved in a local store.
 
 ### Reference Documentation
 For further reference, please consider the following sections:
